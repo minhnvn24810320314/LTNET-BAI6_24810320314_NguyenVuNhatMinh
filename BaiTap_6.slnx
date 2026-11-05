@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="BaiTap6_1/BaiTap6_1.csproj" />
+  <Project Path="BaiTap6_2/BaiTap6_2.csproj" />
+</Solution>

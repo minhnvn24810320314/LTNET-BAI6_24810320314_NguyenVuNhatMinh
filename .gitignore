@@ -1,0 +1,15 @@
+## Visual Studio / .NET Core build outputs
+.vs/
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## SQL Server LocalDB temporary files
+*.mdf
+*.ldf
+
+## OS generated files
+Thumbs.db
+Desktop.ini
