@@ -10,23 +10,21 @@
 
 ---
 
-## MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
-
 ### A. BÀI 6.1: HỆ THỐNG QUẢN LÝ BÁN HÀNG LẺ (RETAIL SALES SYSTEM)
 1. **Màn hình Chính / Tổng quan hệ thống:**  
-   ![Màn hình chính Bài 6.1](docs/bai6_1_01_danhsach_sanpham.png)
+   ![Màn hình chính Bài 6.1](docs/bai6_1_01_crud_danhmuc.png)
 
 2. **Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa):**  
-   ![Màn hình CRUD Bài 6.1](docs/bai6_1_01_danhsach_sanpham.png)
+   ![Màn hình CRUD Bài 6.1](docs/bai6_1_01_crud_danhmuc.png)
 
 3. **Màn hình Thực thi Nghiệp vụ chính (Lập Hóa đơn / Bán hàng):**  
-   ![Màn hình Nghiệp vụ Lập hóa đơn](docs/bai6_1_02_them_hoadon.png)
+   ![Màn hình Nghiệp vụ Lập hóa đơn](docs/bai6_1_03_lap_hoadon_banhang.png)
 
 4. **Màn hình Báo cáo - Thống kê (ExecuteScalar / Lịch sử giao dịch):**  
-   ![Màn hình Thống kê doanh thu](docs/bai6_1_05_doanhthu_thang.png)
+   ![Màn hình Thống kê doanh thu](docs/bai6_1_05_thongke_executescalar.png)
 
 5. **Minh họa An toàn Dữ liệu (Phòng chống SQL Injection / Báo lỗi Transaction Rollback):**  
-   ![Minh họa Rollback khi thiếu hàng](docs/bai6_1_04_transaction_rollback.png)
+   ![Minh họa Rollback khi thiếu hàng](docs/bai6_1_04_transaction_rollback_loi.png)
 
 ---
 
